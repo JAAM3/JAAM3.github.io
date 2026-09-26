@@ -9,7 +9,7 @@ I am Studying Supply Chain Analytics
 Masters of Science in Supply Chain Analytics program
 *currently enrolled*
 
-[A link to my LinkedIn profile] (https://www.linkedin.com/in/jesseemarriott)
+A link to my [LinkedIn profile](https://www.linkedin.com/in/jesseemarriott)
 
 
 
