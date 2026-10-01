@@ -1,3 +1,7 @@
+---
+layout: home
+author_profile: true
+---
 
 # About Me
 I am Studying Supply Chain Analytics
