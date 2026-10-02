@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Jessee Marriott"
+title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jessee Marriott"
 description              : "Supply Chain Analytics Portfolio"
-url                      : "https://jaam3.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jaam3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JAAM3/JAAM3.github.io" # used for edit links, comment system, etc.
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -126,7 +126,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/jessee-marriott/""
+      url: "https://www.linkedin.com/in/jessee-marriott/"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
@@ -170,6 +170,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - minimal-master
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
