@@ -18,15 +18,21 @@ FAA-Certified UAS Remote Pilot
 ## Education
 
 ### California State University San Marcos
-
-## Skills and Interests
-- Inventory planning and control
-- Problem solving
+BA Psychology
 
 Masters of Science in Supply Chain Analytics program
 *currently enrolled*
 
-Link to my [LinkedIn profile](https://www.linkedin.com/in/jesseemarriott/)
+## Skills and Interests
+- Inventory planning and control
+- Problem solving
+- Photshop projects
+- Woodworking
+
+
+
+## Projects
+[How I Built My E-Portfolio](portfolio_process/)
 
 
 
