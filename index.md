@@ -33,6 +33,7 @@ Masters of Science in Supply Chain Analytics program
 
 ## Projects
 [How I Built My E-Portfolio](portfolio_process/)
+[Group Assignments](Group_Assignments/Assignments.md)
 
 
 
