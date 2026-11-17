@@ -4,8 +4,6 @@ author_profile: true
 title: Group Assignments
 ---
 
-# OM620 Group Assingments
-
 ## Assignment 1 
 
 ### Project overview
